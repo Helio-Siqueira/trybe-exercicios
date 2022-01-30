@@ -1,0 +1,14 @@
+{
+    // Use IntelliSense to learn about possible attributes.
+    // Hover to view descriptions of existing attributes.
+    // For more information, visit: https://go.microsoft.com/fwlink/?linkid=830387
+    "version": "0.2.0",
+    "configurations": [
+        {
+            "type": "pwa-chrome",
+            "request": "launch",
+            "name": "Open trybe.html",
+            "file": "/home/helio_siqueira/Documents/Trybe/trybe-exercicios/Módulo 1 - Fundamentos do Desenvolvimento Web/Bloco 03 - Introdução à HTML e CSS/3-1: Introdução - HTML & CSS/trybe.html"
+        }
+    ]
+}
